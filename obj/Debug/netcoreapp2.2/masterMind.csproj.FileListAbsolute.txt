@@ -1,0 +1,11 @@
+Z:\masterMind\bin\Debug\netcoreapp2.2\masterMind.deps.json
+Z:\masterMind\bin\Debug\netcoreapp2.2\masterMind.runtimeconfig.json
+Z:\masterMind\bin\Debug\netcoreapp2.2\masterMind.runtimeconfig.dev.json
+Z:\masterMind\bin\Debug\netcoreapp2.2\masterMind.dll
+Z:\masterMind\bin\Debug\netcoreapp2.2\masterMind.pdb
+Z:\masterMind\obj\Debug\netcoreapp2.2\masterMind.csprojAssemblyReference.cache
+Z:\masterMind\obj\Debug\netcoreapp2.2\masterMind.csproj.CoreCompileInputs.cache
+Z:\masterMind\obj\Debug\netcoreapp2.2\masterMind.AssemblyInfoInputs.cache
+Z:\masterMind\obj\Debug\netcoreapp2.2\masterMind.AssemblyInfo.cs
+Z:\masterMind\obj\Debug\netcoreapp2.2\masterMind.dll
+Z:\masterMind\obj\Debug\netcoreapp2.2\masterMind.pdb
